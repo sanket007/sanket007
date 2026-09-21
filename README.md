@@ -1,6 +1,6 @@
 # Hi there, I'm Sanket Lakhani
 
-Tech Lead, Software Architect, and Builder.
+Software Architect, and Builder.
 
 I enjoy exploring how AI, Web3, and distributed systems can be combined to solve real-world problems at scale. Most of my time is spent designing systems, building products, mentoring engineers, and experimenting with ideas that challenge traditional ways of doing things.
 
